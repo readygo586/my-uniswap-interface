@@ -9,8 +9,8 @@
     "runtime-main.js": "/my-uniswap-interface/static/js/runtime-main.b9bf0a32.js",
     "runtime-main.js.map": "/my-uniswap-interface/static/js/runtime-main.b9bf0a32.js.map",
     "static/css/4.1bfdabf1.chunk.css": "/my-uniswap-interface/static/css/4.1bfdabf1.chunk.css",
-    "static/js/4.9e010770.chunk.js": "/my-uniswap-interface/static/js/4.9e010770.chunk.js",
-    "static/js/4.9e010770.chunk.js.map": "/my-uniswap-interface/static/js/4.9e010770.chunk.js.map",
+    "static/js/4.bb4f6a42.chunk.js": "/my-uniswap-interface/static/js/4.bb4f6a42.chunk.js",
+    "static/js/4.bb4f6a42.chunk.js.map": "/my-uniswap-interface/static/js/4.bb4f6a42.chunk.js.map",
     "static/js/5.42307b48.chunk.js": "/my-uniswap-interface/static/js/5.42307b48.chunk.js",
     "static/js/5.42307b48.chunk.js.map": "/my-uniswap-interface/static/js/5.42307b48.chunk.js.map",
     "static/js/6.e0f58b5f.chunk.js": "/my-uniswap-interface/static/js/6.e0f58b5f.chunk.js",
@@ -22,10 +22,10 @@
     "static/js/9.a960f59b.chunk.js": "/my-uniswap-interface/static/js/9.a960f59b.chunk.js",
     "static/js/9.a960f59b.chunk.js.map": "/my-uniswap-interface/static/js/9.a960f59b.chunk.js.map",
     "index.html": "/my-uniswap-interface/index.html",
-    "precache-manifest.a6e283fcf143dfd030242ff6362fa97b.js": "/my-uniswap-interface/precache-manifest.a6e283fcf143dfd030242ff6362fa97b.js",
+    "precache-manifest.e34f2110a756458c1bb2ff1296bfb39c.js": "/my-uniswap-interface/precache-manifest.e34f2110a756458c1bb2ff1296bfb39c.js",
     "service-worker.js": "/my-uniswap-interface/service-worker.js",
     "static/css/4.1bfdabf1.chunk.css.map": "/my-uniswap-interface/static/css/4.1bfdabf1.chunk.css.map",
-    "static/js/4.9e010770.chunk.js.LICENSE.txt": "/my-uniswap-interface/static/js/4.9e010770.chunk.js.LICENSE.txt",
+    "static/js/4.bb4f6a42.chunk.js.LICENSE.txt": "/my-uniswap-interface/static/js/4.bb4f6a42.chunk.js.LICENSE.txt",
     "static/js/5.42307b48.chunk.js.LICENSE.txt": "/my-uniswap-interface/static/js/5.42307b48.chunk.js.LICENSE.txt",
     "static/js/9.a960f59b.chunk.js.LICENSE.txt": "/my-uniswap-interface/static/js/9.a960f59b.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/my-uniswap-interface/static/media/Inter.var.4b976905.woff2",
@@ -62,7 +62,7 @@
   "entrypoints": [
     "static/js/runtime-main.b9bf0a32.js",
     "static/css/4.1bfdabf1.chunk.css",
-    "static/js/4.9e010770.chunk.js",
+    "static/js/4.bb4f6a42.chunk.js",
     "static/js/main.e57d11dd.chunk.js"
   ]
 }
